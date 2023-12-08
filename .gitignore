@@ -41,6 +41,7 @@
 *.ipr
 .idea
 
+
 # CMake
 cmake-build-*/
 
